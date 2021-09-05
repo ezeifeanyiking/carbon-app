@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class AccountScreenTest {
     @BeforeTest
     public static void UpgradeAccount(){
-        System.out.println("Loading...");
+        System.out.println("Another Loading...");
         System.out.println("This is to upgrade account");
     }
 }
